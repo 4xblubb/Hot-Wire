@@ -20,7 +20,7 @@ public class HotWireApplication extends Application {
     @Override
     public void onCreate() {
         // do sth.
-        PreferenceManager.setDefaultValues(this, R.xml.preferences_game, true);
+        PreferenceManager.setDefaultValues(this, R.xml.pref_game, true);
     }
 
     /** Is called when the Application is going to be terminated. */

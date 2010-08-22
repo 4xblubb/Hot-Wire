@@ -5,11 +5,13 @@
 
 <PreferenceCategory android:title="@string/pref_cat_game">
 
-<EditTextPreference
+<ListPreference
                 android:key="game_speed"
                 android:title="Game speed"
-                android:summary="Summary"
-                android:dialogTitle="Dialogtitle" />
+                android:summary="Setting your game speed."
+                android:entries="@array/pref_game_speed"
+                android:entryValues="@array/prefvalues_game_speed"
+                android:dialogTitle="Bitte wählen" />
 
 </PreferenceCategory>
 

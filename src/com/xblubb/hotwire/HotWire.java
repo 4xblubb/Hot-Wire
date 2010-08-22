@@ -71,7 +71,7 @@ public class HotWire extends Activity {
         // Deciding what to do depending on the request code
         switch (requestCode) {
             case REQUEST_CODE_PREFERENCES:
-                PreferenceManager.setDefaultValues(this, R.xml.preferences_game, true);
+                PreferenceManager.setDefaultValues(this, R.xml.pref_game, true);
                 break;
             default:
                 break;

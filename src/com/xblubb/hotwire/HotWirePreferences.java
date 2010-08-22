@@ -21,6 +21,6 @@ public class HotWirePreferences extends PreferenceActivity {
         super.onCreate(savedInstanceState);
 
         // Loads the preferences from the xml
-        addPreferencesFromResource(R.xml.preferences_game);
+        addPreferencesFromResource(R.xml.pref_game);
     }
 }

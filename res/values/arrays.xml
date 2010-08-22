@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="pref_game_speed">
+    <item>Slow</item>
+    <item>Normal</item>
+    <item>Fast</item>
+  </string-array>
+
+  <string-array name="prefvalues_game_speed">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+  </string-array>
+</resources>
