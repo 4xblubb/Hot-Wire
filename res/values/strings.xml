@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--  App related Strings -->
     <string name="app_name">Hotwire</string>
+
+	<!-- Preference related Strings -->
+	<string name="pref_cat_game">Game settings</string>
+
+    <!--  Menu Strings -->
+    <string name="menu_btn_preferences">Preferences</string>
+    <string name="menu_btn_quit">Exit</string>
+    <string name="menu_btn_about">About</string>
 </resources>
