@@ -14,7 +14,8 @@ import android.view.MenuItem;
 
 /**
  * Main Activity Class. This Activity is created on program startup. It displays
- * the main menu of the game containing
+ * the main menu of the game containing a menu where the user can access the
+ * preferences, exiting the application or getting information about it.
  *
  * @author Jan
  * @version 1.1, 22.08.2010
